@@ -1,16 +1,12 @@
 # Πολιτική ασφαλείας
 
-## Υποστήριξη εκδόσεων
+## Εκδόσεις έργου
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+Εδώ θα μάθετε τις εκδόσεις ασφάλειας του έργου μας.
 
-| Version | Supported          |
+| Έκδοση ασφάλειας | Ενεργή έκδοση          |
 | ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+| 0.1   | :white_check_mark: |
 
 ## Reporting a Vulnerability
 
